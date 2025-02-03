@@ -21,7 +21,7 @@ Una vez ingresada la lista de amigos, se realiza el sorteo, para que sea selecci
 - **Creación de Grupos:** Permite a los usuarios crear grupos para el intercambio.
 - **Asignación Aleatoria:** Asigna amigos secretos de manera aleatoria y justa.
 - **Notificaciones:** Envía notificaciones a los participantes con los detalles de su amigo secreto.
-- [Agrega más características según sea necesario]
+
 
 ## Instalación
 
@@ -32,5 +32,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
    git clone https://github.com/Xn0ch3/Challenge-Amigo-Secreto.git
 
 #Autores del Proyecto Amigo Secreto
+
 LinkedIn : https://www.linkedin.com/in/xavier-nochelli/
+
 GitHub : https://github.com/Xn0ch3
